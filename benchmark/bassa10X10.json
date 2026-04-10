@@ -1,0 +1,621 @@
+{
+  "righe" : 10,
+  "colonne" : 10,
+  "tipologia" : "DENSITA_BASSA",
+  "ostacoli" : [ [ false, false, true, true, false, false, false, false, false, false ], [ false, false, false, false, false, false, false, false, false, false ], [ false, false, false, false, false, false, false, true, false, false ], [ false, false, false, false, false, true, false, false, false, false ], [ false, false, true, false, false, false, false, false, false, false ], [ false, false, false, false, false, false, false, false, false, false ], [ false, false, false, false, false, false, true, false, false, false ], [ false, false, false, true, false, false, false, true, false, false ], [ false, false, true, false, false, false, false, false, true, false ], [ false, false, false, false, false, false, false, false, false, false ] ],
+  "origineDefault" : {
+    "riga" : 9,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  },
+  "destinazioneDefault" : {
+    "riga" : 0,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  },
+  "celle" : [ [ {
+    "riga" : 0,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 5,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 7,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 1,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 2,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 2,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 2,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 5,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 9,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  } ], [ {
+    "riga" : 3,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 2,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 7,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 8,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 9,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  } ], [ {
+    "riga" : 4,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 5,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 7,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 8,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 9,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 5,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 2,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 5,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 7,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 8,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 9,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  } ], [ {
+    "riga" : 6,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 2,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 5,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 7,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 9,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  } ], [ {
+    "riga" : 7,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 2,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 4,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 5,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 6,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 8,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 8,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 3,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 4,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 5,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 6,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 7,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 9,
+    "tipo" : "COMPLEMENTO",
+    "frontiera" : true,
+    "landMark" : false
+  } ], [ {
+    "riga" : 9,
+    "colonna" : 0,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 1,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 2,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 3,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 4,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 5,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 6,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 7,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 8,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 9,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  } ] ]
+}

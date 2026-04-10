@@ -1,0 +1,3771 @@
+{
+  "righe" : 25,
+  "colonne" : 25,
+  "tipologia" : "DENSITA_ALTA",
+  "ostacoli" : [ [ true, true, true, false, true, true, false, true, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, true, false ], [ false, true, false, false, true, true, true, true, false, true, true, false, false, false, false, false, true, false, false, false, true, false, true, false, false ], [ false, true, false, false, false, true, true, true, true, true, false, true, true, false, false, true, true, true, false, false, false, true, true, false, false ], [ true, true, false, true, true, true, false, true, true, true, false, true, true, false, false, false, true, true, true, false, true, true, false, false, false ], [ false, true, false, true, true, true, false, false, false, false, true, false, false, false, true, false, false, false, false, true, true, true, true, true, true ], [ false, true, true, false, false, false, false, false, false, true, true, true, true, false, false, false, false, false, false, false, false, false, true, true, false ], [ false, false, false, false, false, false, false, false, true, true, true, true, true, true, false, false, false, false, true, true, false, true, true, true, false ], [ false, true, false, true, false, false, false, false, true, true, true, false, false, false, true, true, true, true, false, false, false, true, true, false, false ], [ false, true, true, true, true, true, true, true, true, true, true, false, true, true, false, false, true, true, true, false, false, true, false, true, false ], [ false, true, true, true, false, true, true, false, true, false, false, true, false, false, true, false, true, true, false, false, true, true, true, true, false ], [ false, false, true, true, true, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, true, true, false, false, false ], [ false, false, false, true, true, false, false, true, false, true, false, false, false, false, false, false, false, true, true, true, false, false, false, false, false ], [ true, true, false, true, true, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false ], [ true, true, false, false, true, false, true, false, false, false, false, false, true, false, false, false, false, true, true, false, false, false, true, true, false ], [ false, false, false, false, false, false, false, true, true, true, true, false, true, false, false, true, true, false, true, false, false, false, true, true, true ], [ false, false, false, true, false, false, true, true, false, false, true, false, false, false, false, true, true, false, true, true, true, false, true, true, true ], [ false, false, true, false, false, false, false, true, false, true, false, true, true, true, false, false, false, false, true, true, true, false, true, false, true ], [ true, false, false, false, false, true, false, false, false, true, true, false, true, true, false, true, true, false, true, false, true, false, false, false, false ], [ false, false, false, false, true, false, true, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, true, false, false ], [ true, true, true, true, true, true, true, false, true, false, false, false, false, false, false, false, false, false, true, true, true, true, true, false, false ], [ false, false, false, false, true, true, true, true, true, true, true, false, false, false, false, false, false, false, true, true, true, true, false, false, true ], [ false, false, false, true, true, true, false, false, true, true, true, false, true, false, false, true, true, true, false, false, true, false, false, false, true ], [ false, true, true, false, true, true, true, true, false, false, true, true, false, false, true, true, true, true, true, false, true, false, false, false, true ], [ false, true, true, false, true, false, true, true, false, false, true, true, true, true, true, true, false, false, false, true, true, true, false, true, true ], [ true, false, false, false, true, false, false, false, false, true, false, true, false, false, false, false, true, true, true, true, true, false, true, true, true ] ],
+  "origineDefault" : {
+    "riga" : 24,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  },
+  "destinazioneDefault" : {
+    "riga" : 0,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  },
+  "celle" : [ [ {
+    "riga" : 0,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 0,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 1,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 1,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 2,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 2,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 3,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 3,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 4,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 14,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 4,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 5,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 5,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 6,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 13,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 6,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 7,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 14,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 7,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 8,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 13,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 8,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 9,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 14,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 9,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 10,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 10,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 11,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 11,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 12,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 23,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 12,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 13,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 13,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 14,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 14,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 15,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 15,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 16,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 13,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 16,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 17,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 4,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 13,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 22,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 17,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 18,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 20,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 18,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 19,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 19,
+    "colonna" : 24,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 20,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 22,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 20,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 21,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 3,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 8,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 11,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 22,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 21,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 22,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 5,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 14,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 19,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 21,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 22,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 23,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 22,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 23,
+    "colonna" : 0,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 1,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 2,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 6,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 7,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 9,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 10,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 12,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 13,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 14,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 15,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 16,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 17,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 18,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 21,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 22,
+    "tipo" : "CONTESTO",
+    "frontiera" : true,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 23,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ], [ {
+    "riga" : 24,
+    "colonna" : 0,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 1,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 2,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 3,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 4,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 5,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 6,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 7,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 8,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 9,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 10,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 11,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 12,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 13,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 14,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 15,
+    "tipo" : "LIBERA",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 16,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 17,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 18,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 19,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 20,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 21,
+    "tipo" : "CONTESTO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 22,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 23,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  }, {
+    "riga" : 24,
+    "colonna" : 24,
+    "tipo" : "OSTACOLO",
+    "frontiera" : false,
+    "landMark" : false
+  } ] ]
+}
